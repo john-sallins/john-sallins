@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @john-sallins
-- 👀 I’m interested in RUST programming and ios development
-- 🌱 I’m currently teaching RUST 
+- 👀 I’m interested in RUST programming
 - 📫 You can reach me on john_christian2@icloud.com 
 
 <!---
