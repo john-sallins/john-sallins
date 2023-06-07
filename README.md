@@ -2,9 +2,6 @@
 - 👀 I’m interested in Computer Science and AI 
 - 📫 You can reach me on john_christian_@outlook.com and john_christian2@icloud.com 
 
-Citation: The Rust Programming Language
-by Steve Klabnik and Carol Nichols, with contributions from the Rust Community.
-https://doc.rust-lang.org/book/
 
 
 Level 1  
@@ -13,3 +10,9 @@ Learn Rust basics
 
 
 
+
+
+
+Citation: The Rust Programming Language
+by Steve Klabnik and Carol Nichols, with contributions from the Rust Community.
+https://doc.rust-lang.org/book/
