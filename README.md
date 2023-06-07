@@ -2,6 +2,8 @@
 - 👀 I’m interested in RUST programming
 - 📫 You can reach me on john_christian2@icloud.com 
 
+The Rust Programming Language
+by Steve Klabnik and Carol Nichols, with contributions from the Rust Community.
 
 
 Level 1  
